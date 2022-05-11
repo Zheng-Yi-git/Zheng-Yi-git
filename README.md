@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Yi-git)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=YiZheng)
+
+[![wakatime](https://wakatime.com/badge/user/3d8c0ec3-e1fa-463d-bc80-550a56901a22.svg)](https://wakatime.com/@3d8c0ec3-e1fa-463d-bc80-550a56901a22)
