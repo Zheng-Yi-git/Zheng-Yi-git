@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Zheng-Yi-git)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Yi-git)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=YiZheng)
