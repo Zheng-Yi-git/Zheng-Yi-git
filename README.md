@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Profile Viewer](https://komarev.com/ghpvc/?username=Zheng-Yi-git&style=for-the-badge&color=orange)](https://github.com/antonkomarev/github-profile-views-counter)
+
+<p align="center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Zheng-Yi-git&show_icons=true&theme=outrun&hide_border=true&count_private=true">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Yi-git&hide=html,css&theme=yeblu&layout=compact&count_private=true&langs_count=8">
+</p>
+
+
 <!--
 **Zheng-Yi-git/Zheng-Yi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
