@@ -51,19 +51,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████░░░░░░░░   66.43 % 
-Python                   5 mins              ████████░░░░░░░░░░░░░░░░░   31.94 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Zheng-Yi-git.github.io   11 mins             █████████████████░░░░░░░░   68.06 % 
-gif_backend              5 mins              ████████░░░░░░░░░░░░░░░░░   31.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -78,5 +75,5 @@ R                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2023 18:32:21 UTC
+ Last Updated on 23/06/2023 18:35:57 UTC
 <!--END_SECTION:waka-->
