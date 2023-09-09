@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,16 +47,22 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 9 mins        ██████████████░░░░░░░░░░░   57.43 % 
+HTML                     1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   31.51 % 
+Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Ezhil                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+alpha-gp                 3 hrs 45 mins       █████████████████░░░░░░░░   68.43 % 
+Homepage                 1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   31.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 39 mins       █████████████████░░░░░░░░   66.54 % 
+Mac                      1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   33.46 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +78,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2023 18:32:21 UTC
+ Last Updated on 09/09/2023 04:01:55 UTC
 <!--END_SECTION:waka-->
