@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,21 +47,16 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         █████████████████████░░░░   82.90 % 
-Text                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Code                     49 mins             ███████████████░░░░░░░░░░   61.18 % 
-wenquanbook              31 mins             ██████████░░░░░░░░░░░░░░░   38.50 % 
-sopho-moron              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +72,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2023 18:34:29 UTC
+ Last Updated on 17/11/2023 18:34:09 UTC
 <!--END_SECTION:waka-->
