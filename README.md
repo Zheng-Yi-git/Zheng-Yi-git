@@ -47,18 +47,16 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 mins              ██████████████████████░░░   87.59 % 
-Text                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tmp                      4 mins              █████████████████░░░░░░░░   68.44 % 
-Hydrology                1 min               ████████░░░░░░░░░░░░░░░░░   31.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +72,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2024 18:36:07 UTC
+ Last Updated on 10/01/2024 18:37:42 UTC
 <!--END_SECTION:waka-->
