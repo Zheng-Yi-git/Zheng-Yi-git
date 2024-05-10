@@ -3,7 +3,7 @@
 I'm Yi Zheng, a senior undergraduate student at Tsinghua University. I'm a tech enthusiast and am always open to collaborating on projects and innovative ideas.
 
 Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengyi20thu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhengyi20thu@gmail.com)](mailto:zhengyi20thu@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-yizheng20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yizheng20/)](https://www.linkedin.com/in/yizheng20/)
+[![Linkedin Badge](https://img.shields.io/badge/-yizheng20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yizheng20/)](https://www.linkedin.com/in/yi-zheng-mfe/)
 
 ## Technologies
 
@@ -27,8 +27,6 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%203%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
