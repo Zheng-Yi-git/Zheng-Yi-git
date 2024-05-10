@@ -26,7 +26,7 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%203%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/3d8c0ec3-e1fa-463d-bc80-550a56901a22.svg)](https://wakatime.com/@3d8c0ec3-e1fa-463d-bc80-550a56901a22)
 
 **🐱 My GitHub Data** 
 
