@@ -28,13 +28,11 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 265.2 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2024 05:06:23 UTC
+ Last Updated on 10/05/2024 18:37:33 UTC
 <!--END_SECTION:waka-->
