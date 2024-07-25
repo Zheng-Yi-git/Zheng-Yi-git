@@ -26,13 +26,13 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2043%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 265.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,6 +40,46 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+🌆 Daytime                105 commits         ██████████░░░░░░░░░░░░░░░   38.04 % 
+🌃 Evening                106 commits         ██████████░░░░░░░░░░░░░░░   38.41 % 
+🌙 Night                  21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Tuesday                  28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Wednesday                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Friday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Sunday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   20 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  20 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+abc362                   14 mins             ███████████████████░░░░░░   74.09 % 
+tmp                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+
+💻 Operating System: 
+Mac                      20 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -53,5 +93,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 18:42:03 UTC
+ Last Updated on 25/07/2024 18:38:03 UTC
 <!--END_SECTION:waka-->
