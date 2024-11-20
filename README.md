@@ -26,15 +26,13 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 265.6 kB Used in GitHub's Storage 
- > 
-> 🏆 85 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,16 +67,19 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      38 mins             █████████████████░░░░░░░░   66.86 % 
+Python                   18 mins             ████████░░░░░░░░░░░░░░░░░   33.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MTH9821-Numerical-Methods38 mins             █████████████████░░░░░░░░   66.86 % 
+RTC                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+tmp                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2024 18:46:09 UTC
+ Last Updated on 20/11/2024 18:46:11 UTC
 <!--END_SECTION:waka-->
