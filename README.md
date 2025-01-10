@@ -26,11 +26,15 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2041%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 266.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,6 +42,46 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+🌆 Daytime                107 commits         █████████░░░░░░░░░░░░░░░░   36.52 % 
+🌃 Evening                107 commits         █████████░░░░░░░░░░░░░░░░   36.52 % 
+🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Tuesday                  31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Wednesday                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+tmp                      2 mins              ██████████████████████░░░   88.39 % 
+Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+
+💻 Operating System: 
+Mac                      2 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -51,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 18:45:18 UTC
+ Last Updated on 10/01/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
