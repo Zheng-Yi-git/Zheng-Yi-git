@@ -26,15 +26,13 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C151%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 275.8 kB Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,17 +67,16 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 24 mins        █████████████████████████   98.40 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Python                   1 hr 44 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MTH9879                  1 hr 25 mins        █████████████████████████   100.00 % 
+MTH9879                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -95,5 +92,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2025 18:44:34 UTC
+ Last Updated on 13/02/2025 18:44:39 UTC
 <!--END_SECTION:waka-->
