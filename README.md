@@ -26,11 +26,15 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2020%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 276.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,6 +42,46 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+🌆 Daytime                108 commits         █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌃 Evening                107 commits         █████████░░░░░░░░░░░░░░░░   36.15 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Tuesday                  32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Wednesday                46 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   4 hrs 35 mins       █████████████████████████   98.45 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+MTH9879                  4 hrs 40 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      4 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -51,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 18:40:19 UTC
+ Last Updated on 16/02/2025 18:41:04 UTC
 <!--END_SECTION:waka-->
