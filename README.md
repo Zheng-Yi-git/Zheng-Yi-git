@@ -34,6 +34,8 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 
 > 📦 288.0 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -67,19 +69,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       ████████████████████████░   97.78 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-114514                   2 hrs 6 mins        ██████████████░░░░░░░░░░░   57.83 % 
-individual_project       1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-tmp                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -95,5 +94,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2025 18:45:13 UTC
+ Last Updated on 12/05/2025 18:49:26 UTC
 <!--END_SECTION:waka-->
