@@ -34,6 +34,8 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 
 > 📦 288.0 kB Used in GitHub's Storage 
  > 
+> 🏆 73 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -97,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2025 18:46:05 UTC
+ Last Updated on 18/05/2025 18:45:51 UTC
 <!--END_SECTION:waka-->
