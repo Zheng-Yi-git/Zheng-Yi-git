@@ -26,7 +26,7 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C287%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C287%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -67,18 +67,17 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 13 mins       █████████████████████████   99.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 14 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-individual_project       5 hrs 12 mins       █████████████████████████   99.36 % 
-tmp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+individual_project       4 hrs 18 mins       █████████████████████████   98.40 % 
+tmp                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -94,5 +93,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 18:49:35 UTC
+ Last Updated on 23/05/2025 18:49:04 UTC
 <!--END_SECTION:waka-->
