@@ -26,13 +26,15 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 288.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,18 +69,17 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 4 mins       █████████████████████████   99.41 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python                   4 hrs 48 mins       █████████████████████████   98.56 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 8 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-individual_project       6 hrs 24 mins       ██████████████░░░░░░░░░░░   57.46 % 
-drw                      4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
+drw                      4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -94,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2025 18:46:46 UTC
+ Last Updated on 02/06/2025 18:50:26 UTC
 <!--END_SECTION:waka-->
