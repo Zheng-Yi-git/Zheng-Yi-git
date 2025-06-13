@@ -34,7 +34,7 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 
 > 📦 288.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 73 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,16 +69,16 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 55 mins       █████████████████████████   100.00 % 
+Python                   4 hrs 29 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 55 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Binance                  6 hrs 55 mins       █████████████████████████   100.00 % 
+Binance                  4 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -94,5 +94,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 18:50:13 UTC
+ Last Updated on 13/06/2025 18:50:01 UTC
 <!--END_SECTION:waka-->
