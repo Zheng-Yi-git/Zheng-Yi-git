@@ -34,8 +34,6 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 
 > 📦 288.0 kB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -69,17 +67,16 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               34 mins             █████████████████████████   99.04 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jupiter-quote-viewer     35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -95,5 +92,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2025 18:50:26 UTC
+ Last Updated on 21/07/2025 18:54:35 UTC
 <!--END_SECTION:waka-->
