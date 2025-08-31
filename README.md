@@ -26,6 +26,8 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2032%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -38,6 +40,45 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                80 commits          █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+🌆 Daytime                99 commits          ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+🌃 Evening                122 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌙 Night                  80 commits          █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   77 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Friday                   74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -51,5 +92,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 18:44:31 UTC
+ Last Updated on 31/08/2025 18:45:01 UTC
 <!--END_SECTION:waka-->
