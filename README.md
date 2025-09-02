@@ -26,13 +26,15 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 288.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 73 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,16 +69,17 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   27 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+QuantCrypto              14 mins             █████████████░░░░░░░░░░░░   52.84 % 
+MTH9875                  12 mins             ████████████░░░░░░░░░░░░░   47.16 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -92,5 +95,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2025 18:46:31 UTC
+ Last Updated on 02/09/2025 18:46:13 UTC
 <!--END_SECTION:waka-->
