@@ -69,19 +69,16 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 33 mins        ███████████████████████░░   92.11 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OptionMM                 1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -97,5 +94,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2025 18:53:24 UTC
+ Last Updated on 23/12/2025 18:53:46 UTC
 <!--END_SECTION:waka-->
