@@ -26,7 +26,7 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C473%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -34,7 +34,7 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 
 > 📦 297.7 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2025
+> 🏆 96 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,30 +69,35 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 42 mins       ███████████████████░░░░░░   76.56 % 
+TOML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+quant_crypto_system      3 hrs 18 mins       ███████████████████████░░   93.59 % 
+backend                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Jupyter Notebook         13 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
+Python                   12 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 30/12/2025 18:54:28 UTC
+ Last Updated on 31/12/2025 18:52:00 UTC
 <!--END_SECTION:waka-->
