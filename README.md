@@ -69,16 +69,16 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-QuantCrypto              4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -94,5 +94,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2026 18:55:40 UTC
+ Last Updated on 10/01/2026 18:51:42 UTC
 <!--END_SECTION:waka-->
