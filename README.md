@@ -69,17 +69,16 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-QuantCrypto              1 hr 18 mins        ███████████████████████░░   93.20 % 
-hftbacktest              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +94,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2026 19:00:32 UTC
+ Last Updated on 15/02/2026 19:01:55 UTC
 <!--END_SECTION:waka-->
