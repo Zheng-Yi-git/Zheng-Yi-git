@@ -26,7 +26,7 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -69,16 +69,16 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hftbacktest              4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +94,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2026 19:24:57 UTC
+ Last Updated on 27/02/2026 19:09:34 UTC
 <!--END_SECTION:waka-->
