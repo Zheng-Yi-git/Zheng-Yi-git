@@ -26,7 +26,9 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C487%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -81,6 +83,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -94,5 +102,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:44:35 UTC
+ Last Updated on 27/07/2026 20:04:45 UTC
 <!--END_SECTION:waka-->
