@@ -26,9 +26,9 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -71,36 +71,53 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              ████████████████████████░   96.15 % 
+Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+resume                   9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (40.43%)
+
+✍️ 0 lines written by AI, 141 lines written by hand (0.0% AI-written)
+
+🔤 2,268 Input Tokens, 420 Output Tokens
+
+💵 $0.03 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Jupyter Notebook** 
 
 ```text
-Python                   13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
 Jupyter Notebook         13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
+Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 05/09/2026 20:35:54 UTC
+ Last Updated on 06/09/2026 20:40:15 UTC
 <!--END_SECTION:waka-->
