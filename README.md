@@ -106,18 +106,18 @@ GPT                      0 lines             ░░░░░░░░░░░�
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in Python** 
 
 ```text
+Python                   13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
 Jupyter Notebook         13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
-Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 08/09/2026 21:20:17 UTC
+ Last Updated on 09/09/2026 21:05:26 UTC
 <!--END_SECTION:waka-->
