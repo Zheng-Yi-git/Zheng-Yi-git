@@ -71,39 +71,22 @@ Sunday                   29 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              ████████████████████████░   96.15 % 
-Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-resume                   9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (40.43%)
-
-✍️ 0 lines written by AI, 141 lines written by hand (0.0% AI-written)
-
-🔤 2,268 Input Tokens, 420 Output Tokens
-
-💵 $0.03 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -119,5 +102,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:48:26 UTC
+ Last Updated on 13/09/2026 21:02:57 UTC
 <!--END_SECTION:waka-->
