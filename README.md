@@ -92,15 +92,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
-Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Jupyter Notebook         13 repos            █████████░░░░░░░░░░░░░░░░   37.14 % 
+Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 13/09/2026 21:02:57 UTC
+ Last Updated on 14/09/2026 21:57:53 UTC
 <!--END_SECTION:waka-->
