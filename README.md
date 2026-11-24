@@ -44,51 +44,6 @@ Feel free to reach me here: [![Gmail Badge](https://img.shields.io/badge/-zhengy
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                130 commits         ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌆 Daytime                79 commits          █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-🌃 Evening                85 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-🌙 Night                  100 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   95 commits          ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Tuesday                  76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Wednesday                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Friday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -102,5 +57,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 21:48:10 UTC
+ Last Updated on 24/11/2026 04:34:14 UTC
 <!--END_SECTION:waka-->
